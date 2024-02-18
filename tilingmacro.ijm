@@ -1,3 +1,4 @@
+//This macro was used to tile the enhanced  original images.
 // Define the number of rows and columns in the grid
 numRows = 10;
 numCols = 10;
