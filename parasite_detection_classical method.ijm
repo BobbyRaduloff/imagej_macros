@@ -1,3 +1,4 @@
+//This macro was used to color threshold the parasites in the Classical Method. 
 run("Duplicate...", "use");
 run("Median...", "radius=3");
 run("Color Threshold...");
