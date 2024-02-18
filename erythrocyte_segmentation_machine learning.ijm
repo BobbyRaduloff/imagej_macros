@@ -1,3 +1,4 @@
+//This macro was used to manually segment the erythrocytes from the prediction maps in the Machine Learning method. 
 run("Duplicate...", "use");
 run("Median...", "radius=3");
 run("Brightness/Contrast...");
