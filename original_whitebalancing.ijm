@@ -1,3 +1,4 @@
+//This code was used as foundation for the one used in the methods.
 // Original code by Vytas Bindokas; Oct 2006, Univ. of Chicago
 // https://digital.bsd.uchicago.edu/docs/imagej_macros/_graybalancetoROI.txt
 // This macro white balances RGB to a selected region (equal R,G,B =gray)
